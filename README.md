@@ -16,4 +16,4 @@ Wazuh · Linux · Kali Linux · Python · SQL · Ollama
 SOC analysis, detection engineering, AI/LLM security
 
 ### 📫 Reach me
-[LinkedIn]((https://www.linkedin.com/in/aziz-abuyousef-0533372a1/)) · a.abuyousef2004@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aziz-abuyousef-0533372a1/) · aziz.abuyousef@torontomu.ca
