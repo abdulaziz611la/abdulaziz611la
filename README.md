@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm [Your name] 👋
 
-<!--
-**abdulaziz611la/abdulaziz611la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Business Technology Management student at Toronto Metropolitan University (Cyber Studies minor), ISC2 Certified in Cybersecurity (CC). Working toward a cybersecurity internship, with a focus on AI security.
 
-Here are some ideas to get you started:
+### 🔧 What I'm building
+| Project | What it shows | Status |
+|---|---|---|
+| [Shadow AI Data-Leak Detection (Wazuh)](https://github.com/abdulaziz611la/shadow-ai-wazuh-lab) | Custom SIEM rules and incident investigation for employees sending files to unapproved AI tools | In progress |
+| Cloud Identity Audit (AWS IAM) | Least-privilege review of cloud identities, including AI agent permissions | Planned |
+| AI Agent Red Teaming | Testing a self-built AI agent against the OWASP Agentic Top 10 | Planned |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+Wazuh · Linux · Python · SQL · Ollama · Kali Linux · AWS IAM
+
+### 📚 Currently learning
+SOC analysis, detection engineering, AI/LLM security
+
+### 📫 Reach me
+[LinkedIn URL] · [email]
