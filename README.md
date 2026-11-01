@@ -1,4 +1,4 @@
-## Hi, I'm [Your name] 👋
+## Hi, I'm Aziz 👋
 
 4th-year Business Technology Management student at Toronto Metropolitan University (Cyber Studies minor), ISC2 Certified in Cybersecurity (CC). Working toward a cybersecurity internship, with a focus on AI security.
 
@@ -10,10 +10,10 @@
 | AI Agent Red Teaming | Testing a self-built AI agent against the OWASP Agentic Top 10 | Planned |
 
 ### 🛠️ Tools
-Wazuh · Linux · Python · SQL · Ollama · Kali Linux · AWS IAM
+Wazuh · Linux · Kali Linux · Python · SQL · Ollama
 
 ### 📚 Currently learning
 SOC analysis, detection engineering, AI/LLM security
 
 ### 📫 Reach me
-[LinkedIn URL] · [email]
+[LinkedIn]((https://www.linkedin.com/in/aziz-abuyousef-0533372a1/)) · a.abuyousef2004@gmail.com
